@@ -5,9 +5,10 @@ The purpose of this anaylsis is to evaluate three machine learning models by usi
 
 ## Results
 ### RandomOverSampler
+![image](https://user-images.githubusercontent.com/106352711/195671509-37781ecf-d5ec-4699-a99f-b0f5c1e3e6c8.png)
 
 
-* Balanced Accuracy Score: 
+* Balanced Accuracy Score: 65.7%
 * Precison Score: 
 * Recall Score: 
 
