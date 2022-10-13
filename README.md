@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
-The purpose of this anaylsis is to evaluate three machine learning models by using resampling to determine which is better at predicting credit risk.  Oversampling will be performed using RandomOverSampler and SMOTE algorithms and undersampling will use the ClusterCentroids algorithm.
+The purpose of this anaylsis is to evaluate three machine learning models by using resampling to determine which is better at predicting credit risk.  Oversampling will be performed using RandomOverSampler and SMOTE algorithms and undersampling will use the ClusterCentroids algorithm.  Additionally, Ensemble classifiers will be used to predict credit risk.
 
 ## Results
 ### RandomOverSampler
@@ -53,3 +53,4 @@ The purpose of this anaylsis is to evaluate three machine learning models by usi
 * Recall Score: High/Low risk = 0.92/0.94
 
 ## Summary
+To predict credit risk with the given data, the EasyEnsebleClassifier had the best accurracy, over 93%.  Wheras the other models ranged in 50% to 79% accurracy. The models all had a low precision for High-risk loans and a very high precision for Low-Risk loans.
