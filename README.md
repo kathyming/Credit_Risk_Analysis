@@ -26,15 +26,15 @@ The purpose of this anaylsis is to evaluate three machine learning models by usi
 
 * Balanced Accuracy Score: 0.6628910844779521
 * Precison Score: The precision is low for High-risk loans and is high for Low-risk loans.
-* Recall Score: High/Low risk = 0.92/0.94
+* Recall Score: High/Low risk = 0.63/0.55
 
 ### SMOTEENN
-![image](https://user-images.githubusercontent.com/106352711/195676367-f92fd80a-652d-46a3-b707-5f16f434a7b5.png)
+![image](https://user-images.githubusercontent.com/106352711/195680991-17f855ba-1659-428c-a11a-fe4d2e64db41.png)
 
 
-* Balanced Accuracy Score: 0.595149417888468
+* Balanced Accuracy Score: 0.5894579694171476
 * Precison Score: The precision is low for High-risk loans and is high for Low-risk loans.
-* Recall Score: High/Low risk = .91/.94
+* Recall Score: High/Low risk = .72/.57
 
 ### BalancedRandomForestClassifier
 ![image](https://user-images.githubusercontent.com/106352711/195676550-bef71ac2-3701-4848-a19f-ca183a32d85c.png)
