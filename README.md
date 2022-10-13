@@ -6,14 +6,44 @@ The purpose of this anaylsis is to evaluate three machine learning models by usi
 ## Results
 ### RandomOverSampler
 
+
+* Balanced Accuracy Score: 
+* Precison Score: 
+* Recall Score: 
+
 ### SMOTE
+
+
+* Balanced Accuracy Score: 
+* Precison Score: 
+* Recall Score: 
 
 ### ClusterCentroids
 
+
+* Balanced Accuracy Score: 
+* Precison Score: 
+* Recall Score: 
+
 ### SMOTEENN
+
+
+* Balanced Accuracy Score: 
+* Precison Score: 
+* Recall Score: 
 
 ### BalancedRandomForestClassifier
 
+
+* Balanced Accuracy Score: 
+* Precison Score: 
+* Recall Score: 
+
 ### EasyEnsembleClassifier
+
+
+* Balanced Accuracy Score: 
+* Precison Score: 
+* Recall Score: 
 
 ## Summary
